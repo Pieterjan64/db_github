@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "lncRNADb_2_1.protCodingGenes", "name" : "_id_" }, { "v" : 1, "key" : { "Strand" : 1, "Gene End (bp)" : -1, "Chromosome Name" : 1, "Gene Start (bp)" : 1 }, "ns" : "lncRNADb_2_1.protCodingGenes", "name" : "Strand_1_Gene End (bp)_-1_Chromosome Name_1_Gene Start (bp)_1" } ] }
